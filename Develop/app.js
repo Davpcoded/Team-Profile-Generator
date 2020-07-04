@@ -99,7 +99,7 @@ function processPromtData(response) {
       newName,
       newID,
       newEmail,
-      response.EngineerGithub
+      response.EngineerDepartment
     );
   } else if (response.EmployeeRole === "Intern") {
     newEmployee = new Intern(newName, newID, newEmail, response.InternSchool);
