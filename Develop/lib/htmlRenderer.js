@@ -56,6 +56,7 @@ const renderEngineer = (engineer) => {
     "department",
     engineer.getDepartment()
   );
+  template = replacePlaceholders(template, "github", engineer.getGithub());
   return template;
 };
 

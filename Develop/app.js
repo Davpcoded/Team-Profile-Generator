@@ -69,6 +69,12 @@ const questions = [
   },
   {
     type: "input",
+    message: "What is their github username?",
+    name: "EngineerGithub",
+    when: (answers) => answers.EmployeeRole === "Engineer",
+  },
+  {
+    type: "input",
     message: "What school are they attending?",
     name: "InternSchool",
     when: (answers) => answers.EmployeeRole === "Intern",
