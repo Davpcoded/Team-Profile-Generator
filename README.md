@@ -5,7 +5,7 @@
 ## Description
 
 A CLI app that creates a templated HTML file with team members added by the user.
-![image](https://github.com/Davpcoded/Code-quiz/blob/master/Assets/Images/Code-Quiz.gif)
+![image](https://github.com/Davpcoded/Team-Profile-Generator/blob/master/Assets/Screenshot%20(37).png)
 
 ## User Story
 
