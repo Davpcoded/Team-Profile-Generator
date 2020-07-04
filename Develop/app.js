@@ -61,8 +61,9 @@ const questions = [
     when: (answers) => answers.EmployeeRole === "Manager",
   },
   {
-    type: "input",
+    type: "list",
     message: "What is their department?",
+    choices: ["Front-End", "Back-End"],
     name: "EngineerDepartment",
     when: (answers) => answers.EmployeeRole === "Engineer",
   },
