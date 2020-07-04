@@ -6,6 +6,8 @@
 
 A CLI app that creates a templated HTML file with team members added by the user.
 ![image](https://github.com/Davpcoded/Team-Profile-Generator/blob/master/Assets/Screenshot%20(37).png)
+![image](https://github.com/Davpcoded/Team-Profile-Generator/blob/master/Assets/Screenshot%20(40).png)
+
 
 ## User Story
 
