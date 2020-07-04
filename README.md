@@ -39,7 +39,7 @@ Jest, to run test install jest dependencies with npm install --save-dev jest
 Clone or fork the app then install dependencies with npm install inquirer and go to develop folder then run app.js and answer each question. Then a HTML file will be created into output folder
 
 ## Link to Video
-
+https://drive.google.com/file/d/1yPfg6mBzKqYu0lfKCziVoc0Hd9Of0jCn/view
 ## GitHub Repo:
 
 https://github.com/Davpcoded/Team-Profile-Generator
